@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rest-test/static/css/main.b10ce008.css",
+    "main.js": "/rest-test/static/js/main.202b9982.js",
+    "index.html": "/rest-test/index.html",
+    "main.b10ce008.css.map": "/rest-test/static/css/main.b10ce008.css.map",
+    "main.202b9982.js.map": "/rest-test/static/js/main.202b9982.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b10ce008.css",
+    "static/js/main.202b9982.js"
+  ]
+}
